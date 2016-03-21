@@ -4,7 +4,7 @@
 //
 //  Created by 熊彬 on 16/2/22.
 //  Copyright © 2016年 彬熊. All rights reserved.
-//
+//  github地址：https://github.com/Angelmygirlxlf/CityChoose
 
 #import "ChooseCityController.h"
 #import "LBSManager.h"
